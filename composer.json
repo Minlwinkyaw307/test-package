@@ -1,0 +1,10 @@
+{
+    "name": "minlwinkyaw/test-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "MinLwin\\": "src/"
+        }
+    },
+    "require": {}
+}
