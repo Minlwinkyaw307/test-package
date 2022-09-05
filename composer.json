@@ -1,5 +1,7 @@
 {
     "name": "minlwinkyaw/test-package",
+    "description": "Min Lwin test package",
+    "license": "proprietary",
     "type": "library",
     "autoload": {
         "psr-4": {
