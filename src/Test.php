@@ -1,5 +1,5 @@
 <?php
-namespace MinLwin;
+namespace vitalis\HelloWorld;
 
 class Test {
     public static function print($value) {

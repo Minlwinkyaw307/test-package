@@ -1,12 +1,17 @@
 {
-    "name": "minlwinkyaw/test-package",
-    "description": "Min Lwin test package",
-    "license": "proprietary",
+    "name": "vitalis/hello-composer",
+    "description": "A simple hello world composer package",
     "type": "library",
-    "autoload": {
-        "psr-4": {
-            "MinLwin\\": "src/MinLwin/"
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ogbonna Vitalis",
+            "email": "agavitalisogbonna@gmail.com"
         }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"vitalis\\HelloWorld\\": "src/"}
     },
     "require": {}
 }
