@@ -4,8 +4,8 @@
     "license": "proprietary",
     "type": "library",
     "autoload": {
-        "psr-4": {
-            "MinLwin\\": "src/"
+        "psr-0": {
+            "MinLwin": "src/"
         }
     },
     "require": {}
