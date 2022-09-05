@@ -3,6 +3,7 @@
     "description": "Test package",
     "license": "MIT",
     "type": "library",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "MinLwin\\": "src/"
