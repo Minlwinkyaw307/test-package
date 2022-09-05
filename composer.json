@@ -1,5 +1,7 @@
 {
     "name": "minlwinkyaw/test-package",
+    "description": "Test package",
+    "license": "MIT",
     "type": "library",
     "autoload": {
         "psr-4": {
